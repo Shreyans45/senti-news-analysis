@@ -1,4 +1,4 @@
-from nltk.tokenize import word_tokeniz
+from nltk.tokenize import word_tokenize
 
 def tokenize_text(text):
     return word_tokenize(text)
